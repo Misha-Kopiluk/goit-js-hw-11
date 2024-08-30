@@ -19,5 +19,5 @@ export const galleryMarkup = (info) => {
       </li>
     </ul>
   </div>
-    </li>`;
+  </li>`;
 }
